@@ -1,0 +1,52 @@
+﻿AREA,STATE_NAME,STATE_FIPS,SUB_REGION,STATE_ABBR,Obesity
+51656.204,Alabama,01,E S Cen,AL,31.0
+577756.887,Alaska,02,Pacific,AK,24.8
+113995.679,Arizona,04,Mtn,AZ,25.5
+53178.219,Arkansas,05,W S Cen,AR,30.5
+158080.902,California,06,Pacific,CA,24.8
+104091.687,Colorado,08,Mtn,CO,18.6
+4965.559,Connecticut,09,N Eng,CT,20.6
+1984.514,Delaware,10,S Atl,DE,27.0
+68.342,District of Columbia,11,S Atl,DC,19.7
+56724.942,Florida,12,S Atl,FL,25.2
+58792.385,Georgia,13,S Atl,GA,27.2
+6456.521,Hawaii,15,Pacific,HI,22.3
+83566.905,Idaho,16,Mtn,ID,24.5
+56338.580,Illinois,17,E N Cen,IL,26.5
+36182.384,Indiana,18,E N Cen,IN,29.5
+56270.944,Iowa,19,W N Cen,IA,27.9
+82275.464,Kansas,20,W N Cen,KS,28.1
+40408.048,Kentucky,21,E S Cen,KY,31.5
+46805.625,Louisiana,22,W S Cen,LA,33.0
+32379.159,Maine,23,N Eng,ME,25.8
+9945.853,Maryland,24,S Atl,MD,26.2
+8116.216,Massachusetts,25,N Eng,MA,21.4
+58256.831,Michigan,26,E N Cen,MI,29.6
+84376.254,Minnesota,27,W N Cen,MN,24.6
+47672.725,Mississippi,28,E S Cen,MS,34.4
+69703.284,Missouri,29,W N Cen,MO,30.0
+147032.686,Montana,30,Mtn,MT,23.2
+77351.949,Nebraska,31,W N Cen,NE,27.2
+110558.507,Nevada,32,Mtn,NV,25.8
+9267.318,New Hampshire,33,N Eng,NH,25.7
+7555.339,New Jersey,34,Mid Atl,NJ,23.3
+121586.900,New Mexico,35,Mtn,NM,25.1
+48652.582,New York,36,Mid Atl,NY,24.2
+49714.403,North Carolina,37,S Atl,NC,29.3
+70697.708,North Dakota,38,W N Cen,ND,27.9
+41265.538,Ohio,39,E N Cen,OH,28.8
+69897.326,Oklahoma,40,W S Cen,OK,31.4
+96981.733,Oregon,41,Pacific,OR,23.0
+45299.892,Pennsylvania,42,Mid Atl,PA,27.4
+1089.471,Rhode Island,44,N Eng,RI,24.6
+30935.698,South Carolina,45,S Atl,SC,29.4
+77115.184,South Dakota,46,W N Cen,SD,29.6
+42142.723,Tennessee,47,E S Cen,TN,32.3
+264778.795,Texas,48,W S Cen,TX,28.7
+84896.311,Utah,49,Mtn,UT,23.5
+9613.267,Vermont,50,N Eng,VT,22.8
+39987.431,Virginia,51,S Atl,VA,25.0
+67553.638,Washington,53,Pacific,WA,26.4
+24229.467,West Virginia,54,S Atl,WV,31.1
+56088.523,Wisconsin,55,E N Cen,WI,28.7
+97810.102,Wyoming,56,Mtn,WY,24.6
